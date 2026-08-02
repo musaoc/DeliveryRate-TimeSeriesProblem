@@ -4,7 +4,7 @@ Production-ready machine learning solution for predicting freight spot rates acr
 
 ---
 
-
+My article of Route and Delivery Optimization: https://tensour.com/fleet-route-optimization/
 
 
 ## 🚀 Quickstart & Setup
